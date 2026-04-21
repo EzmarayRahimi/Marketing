@@ -1,4 +1,4 @@
-const BASE = '/altaf-marketing/images'
+const BASE = '/Marketing/images'
 
 export const companies = [
   {

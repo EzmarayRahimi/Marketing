@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const PLACEHOLDER = '/altaf-marketing/images/placeholder.jpg'
+const PLACEHOLDER = '/Marketing/images/placeholder.jpg'
 
 export default function ProductCard({ product, companyName, companyColor, isPlaceholder = false }) {
   const [imgError, setImgError] = useState(false)
